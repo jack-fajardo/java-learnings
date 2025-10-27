@@ -1,0 +1,76 @@
+// POP QUIZ — Library Book Manager
+// Scenario
+
+// You are building a mini library system.
+
+// Each Book has:
+
+// title (String)
+
+// author (String)
+
+// isBorrowed (boolean) — whether the book is currently borrowed
+
+// The Library can:
+
+// Add books
+
+// Show all books
+
+// Mark a book as borrowed (by title)
+
+// Your Main class will:
+
+// Create some books
+
+// Add them to the library
+
+// Borrow a specific book
+
+// Show all books
+
+// Sample Input / Scenario
+
+// Add books:
+
+// "The Hobbit" by "Tolkien"
+
+// "1984" by "Orwell"
+
+// "Atomic Habits" by "Clear"
+
+// Borrow "1984"
+
+// Expected Output
+// The Hobbit by Tolkien — Borrowed? false
+// 1984 by Orwell — Borrowed? true
+// Atomic Habits by Clear — Borrowed? false
+
+// Bonus Requirement (Surprise!)
+
+// Add a method to find all borrowed books and display only those.
+
+// This is new — it forces you to filter the list and think in OOP terms.
+
+// Rules
+
+// Use separate classes: Book, Library, Main
+
+// Use private fields + getters/setters
+
+// Use List<Book> for storing multiple books
+
+// Use loops to iterate
+
+// Use string equals when comparing titles
+
+// Bonus: filter borrowed books
+
+// 💡 Think:
+
+// Book = Task
+
+// Library = TodoList
+
+// Main = orchestrates calls
+
