@@ -1,0 +1,7 @@
+Lesson 4 → Java Object Construction & this keyword ✅ (we start here next)
+Lesson 5 → Constructors Overloading & Static vs Instance
+Lesson 6 → Encapsulation (Real — not just getters/setters)
+Lesson 7 → Inheritance & super
+Lesson 8 → Polymorphism (the most powerful OOP weapon)
+Lesson 9 → Interface & Abstraction (what companies actually use and WHY)
+Lesson 10 → Real Scenarios — “Think like a BACKEND engineer”
